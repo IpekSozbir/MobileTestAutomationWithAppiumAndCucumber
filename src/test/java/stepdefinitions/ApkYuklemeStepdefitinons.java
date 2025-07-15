@@ -28,5 +28,4 @@ public class ApkYuklemeStepdefitinons {
         androidDriver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 
     }
-
 }
