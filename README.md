@@ -102,7 +102,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları tak
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/MobileTestAutomationWithAppiumAndCucumber.git](https://github.com/KULLANICI_ADINIZ/MobileTestAutomationWithAppiumAndCucumber.git)
+    git clone [https://github.com/IpekSozbir/MobileTestAutomationWithAppiumAndCucumber.git]
     ```
 2.  **Bağımlılıkları Yükleyin:** Proje dizininde `pom.xml` dosyasını kullanarak Maven bağımlılıklarını indirin (IDE genellikle bunu otomatik yapar).
 3.  **Konfigürasyonu Ayarlayın:** `src/test/resources/configuration.properties` dosyasındaki test verilerini ve cihaz/uygulama ayarlarını kontrol edin.
@@ -219,7 +219,7 @@ To run this project in your local environment, you must follow the steps below:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/MobileTestAutomationWithAppiumAndCucumber.git](https://github.com/YOUR_USERNAME/MobileTestAutomationWithAppiumAndCucumber.git)
+    git clone [https://github.com/IpekSozbir/MobileTestAutomationWithAppiumAndCucumber.git]
     ```
 2.  **Load Dependencies:** Download the Maven dependencies using the `pom.xml` file in the project directory (the IDE usually does this automatically).
 3.  **Configure Settings:** Verify the test data and device/application settings in the `src/test/resources/configuration.properties` file.
